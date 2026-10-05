@@ -7,4 +7,4 @@ projects:
 [pikmin 67](https://github.com/nadia8666/pikmin-67)<br>
 [utm](https://github.com/nadia8666/utm/tree/dev)<br>
 ~~[sonic r legacy](https://github.com/inkyaker/sonic-r-legacy)~~ (canceled) <br>
-[green luau](https://github.com/nadia8666/green-luau) (indefinite freeze)
+~~[green luau](https://github.com/nadia8666/green-luau)~~ (canceled)
